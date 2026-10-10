@@ -924,3 +924,4 @@ additions comply with the project’s license guidelines.
 [Technical values and prioritization]: doc/contributing/technical-values.md
 [Working Groups]: https://github.com/nodejs/TSC/blob/HEAD/WORKING_GROUPS.md
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
